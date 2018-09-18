@@ -2,6 +2,11 @@ body {
     background-color: lightblue;
 }
 
+header {
+ display: block;
+ color: black;
+}
+
 h1 {
     color: white;
     text-align: top;
